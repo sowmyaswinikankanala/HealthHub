@@ -38,3 +38,5 @@ Here's a combined summary of the key points from all provided React Native code 
 - Defines a StyleSheet but is not used in this code snippet. It's a common practice to define styles using StyleSheet.create for better performance and organization.
 
 These components collectively form part of a health and wellness app, providing functionality related to fitness plans, mental well-being, nutrition guidance, and community engagement. The code demonstrates the usage of React Native components and navigation to create an interactive user interface.
+### Screenshots:
+Screenshots/Community.png
