@@ -42,7 +42,6 @@ These components collectively form part of a health and wellness app, providing 
 
 ![HomeScreen](Screenshots/HomeScreen.png)
 
-
 HealthHub's HomeScreen: Navigate wellness effortlessly.
 
 
