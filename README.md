@@ -48,54 +48,108 @@ HealthHub's HomeScreen: Navigate wellness effortlessly.
 
 
 
+
+
 ![FitnessPlans](Screenshots/FitnessPlans.png)
+
+Explore your fitness journey with the Fitness Plan tab
+
+
+
 
 
 
 
 ![Nutrition](Screenshots/Nutrition.png)
 
+Discover nutritional insights with a glance at the Nutrition tab.
+
+
+
+
 
 
 
 ![MentalWell-Being](Screenshots/MentalWell-Being.png)
+
+Embrace mindfulness and well-being through the Mental Well-Being tab
+
+
+
 
 
 
 
 ![community](Screenshots/Community.png)
 
+Engage with like-minded individuals through the vibrant Community tab
+
+
+
+
 
 
 
 ![MealPlan](Screenshots/MealPlan.png)
+
+Unlock personalized meal plans with a tap on the Meal Plan tab
+
+
+
 
 
 
 
 ![TrackNutrients](Screenshots/TrackNutrients.png)
 
+Stay on top of your nutritional intake with the Nutrient Tracker tab.
+
+
+
+
 
 
 
 ![StartMeditation](Screenshots/StartMeditation.png)
+
+Begin your journey to mindfulness with a simple tap on the Start Meditation button.
+
+
+
 
 
 
 
 ![MindfullnessExercise](Screenshots/MindfullnessExercise.png)
 
+Engage in mindful exercises with just a tap on the Mindfulness Exercise button.
+
+
+
+
 
 
 
 ![ShareAchievement](Screenshots/ShareAchievement.png)
+
+Share your accomplishments seamlessly with a tap on the Share Achievement button.
+
+
+
 
 
 
 
 ![ShareChallenge](Screenshots/ShareChallenge.png)
 
+Spread inspiration by sharing challenges effortlessly with the Share Challenge button.
+
+
+
+
 
 
 
 ![Tip](Screenshots/Tip.png)
+
+Empower others by sharing insightful tips with the Share Tip button.
