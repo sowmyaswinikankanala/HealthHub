@@ -40,11 +40,11 @@ Here's a combined summary of the key points from all provided React Native code 
 These components collectively form part of a health and wellness app, providing functionality related to fitness plans, mental well-being, nutrition guidance, and community engagement. The code demonstrates the usage of React Native components and navigation to create an interactive user interface.
 ### Screenshots
 
-![HomeScreen (1)](Screenshots/HomeScreen (1).png)
+![HomeScreen (1)](Screenshots/HomeScreen(1).png)
 
 ![FitnessPlans](Screenshots/FitnessPlans.png)
-
-
+![Nutrition](Screenshots/Nutrition.png)
+![Mental Well-Being](Screenshots/MentalWell-Being.png)
 
 ![community](Screenshots/Community.png)
 
