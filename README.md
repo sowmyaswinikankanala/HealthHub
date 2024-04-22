@@ -153,3 +153,5 @@ Spread inspiration by sharing challenges effortlessly with the Share Challenge b
 ![Tip](Screenshots/Tip.png)
 
 Empower others by sharing insightful tips with the Share Tip button.
+
+video link: https://drive.google.com/file/d/1zjhKr0SxE1ExL4MGU5fPuUUxcdkMQS3f/view?usp=sharing
