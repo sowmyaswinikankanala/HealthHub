@@ -41,20 +41,58 @@ These components collectively form part of a health and wellness app, providing 
 ### Screenshots
 
 ![HomeScreen](Screenshots/HomeScreen.png)
+HealthHub's HomeScreen: Navigate wellness effortlessly.
+
 
 
 ![FitnessPlans](Screenshots/FitnessPlans.png)
 
 
+
+
 ![Nutrition](Screenshots/Nutrition.png)
 
 
+
+
 ![MentalWell-Being](Screenshots/MentalWell-Being.png)
+
+
+
+
 ![community](Screenshots/Community.png)
+
+
+
+
 ![MealPlan](Screenshots/MealPlan.png)
+
+
+
+
 ![TrackNutrients](Screenshots/TrackNutrients.png)
+
+
+
+
 ![StartMeditation](Screenshots/StartMeditation.png)
+
+
+
+
 ![MindfullnessExercise](Screenshots/MindfullnessExercise.png)
+
+
+
+
 ![ShareAchievement](Screenshots/ShareAchievement.png)
+
+
+
+
 ![ShareChallenge](Screenshots/ShareChallenge.png)
+
+
+
+
 ![Tip](Screenshots/Tip.png)
