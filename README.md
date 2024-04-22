@@ -42,7 +42,7 @@ These components collectively form part of a health and wellness app, providing 
 
 ![HomeScreen (1)](Screenshots/HomeScreen (1).png)
 
-
+![FitnessPlans](Screenshots/FitnessPlans.png)
 
 
 
