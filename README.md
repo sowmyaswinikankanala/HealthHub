@@ -41,8 +41,14 @@ These components collectively form part of a health and wellness app, providing 
 ### Screenshots
 
 ![HomeScreen](Screenshots/HomeScreen.png)
+
+
 ![FitnessPlans](Screenshots/FitnessPlans.png)
+
+
 ![Nutrition](Screenshots/Nutrition.png)
+
+
 ![MentalWell-Being](Screenshots/MentalWell-Being.png)
 ![community](Screenshots/Community.png)
 ![MealPlan](Screenshots/MealPlan.png)
